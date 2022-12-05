@@ -1,2 +1,2 @@
 # jenkins-bulb
-Here is my first job at jenkins.
+This repository is used to connect jenkins with github.
